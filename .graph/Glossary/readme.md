@@ -1,3 +1,7 @@
+# Rancher
+install:
+- [Rancher + Vault](https://youtu.be/k9lpsnXQv-I)
+
 # Hyper-Converged Infrastructure
 **Cloud Computing without a Storage Network!**
 
